@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-# Saying hi to everybody...
+# Saying hi to everyone...
 print "Hello, World!"
 
